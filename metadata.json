@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Rock Paper Scissors",
+  "description": "A simple Rock, Paper, Scissors game where you play against a witty AI opponent powered by the Gemini API.",
+  "requestFramePermissions": []
+}
